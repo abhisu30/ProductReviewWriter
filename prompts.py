@@ -60,7 +60,7 @@ prompts_list = {
     - You will strictly adhere to the information provided in the input bullet points.
     - Ensure that no new information that is not present in the input text is added.
     - Do not add any introduction or conclusion or the section header to your output.
-    - Only provide the final output, and do not provide any explanations or headings.
+    - Only provide the final output, and DO NOT provide any explanations or headings such as "[Transition to the next section]".
     %PREVIOUS SECTION SUMMARY%
     "{revSum}" 
     %INPUT TEXT% 
